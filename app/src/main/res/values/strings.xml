@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Peresztegi-Nagy Gellert</string>
+    <string name="name">Peresztegi-Nagy Gellert</string>
+    <string name="introduction">My name is Gellért Peresztegi-Nagy, I am 15 years old. I live in Győr (Hungary), and I go to Apor Vilmos School. I am mainly interested in Computer Science and Mathematics, but I also like learning about Finance and Business.</string>
+    <string name="nameLabel">Name:</string>
+    <string name="messageLabel">Message:</string>
+    <string name="sendButtonLabel">Send</string>
+</resources>
